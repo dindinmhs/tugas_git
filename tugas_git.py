@@ -57,4 +57,4 @@ for k, v in data_panen.items():
     else:
         print(f"lokasi {v["nama_lokasi"]} dalam kondisi baik")
     
-    
+print("tambah baris baru")

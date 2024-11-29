@@ -1,3 +1,3 @@
-# hello from github
-# lorem ipsum
-# Hell0 world from Git
+# helo from github
+# lorem
+# Hell0 world from Github
